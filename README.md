@@ -1,3 +1,3 @@
 # test-repo-2
 
-UPDATE README 1
+UPDATE README 2
